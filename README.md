@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP, Drupal
 - 🌱 I’m currently learning Drupal 10
 - 💞️ I’m looking to collaborate on Drupal 10 migration
-- 📫 How to reach me frederik.guitton@gmail.com
+- 📫 How to reach me frederik.guitton@umontpellier.fr
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
